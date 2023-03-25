@@ -69,3 +69,6 @@ You can contribute in following ways:
 
 ## Credits
 * [hackertarget](https://hackertarget.com/)
+
+
+[![Run on Repl.it](https://replit.com/badge/github/reptarsrevenge666/ashok)](https://replit.com/new/github/reptarsrevenge666/ashok)
